@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(66, 66, 170);
+}
+p.background 
+ { 
+     background-color: rgb(140, 182, 43);
+ }
+span.text
+ {
+     color: white;
+ }
+ li {
+     color: rgb(226, 160, 143);
+ }
+ p#footer{
+     text-align: center;
+ }
+ span.copyright {
+    border-left: 2px solid rgb(177, 40, 40);
+    height: auto;
+    margin-left: 2px;
+    margin-right: auto;
+ }
